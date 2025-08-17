@@ -34,15 +34,7 @@ El análisis se estructura en los siguientes puntos, cubriendo los requerimiento
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
-1.  Clona este repositorio:
-    ```bash
-    git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
-    ```
-2.  Navega al directorio del proyecto:
-    ```bash
-    cd nombre-del-repositorio
-    ```
-3.  Abre el notebook en Jupyter:
+1.  Abre el notebook en Jupyter:
     ```bash
     jupyter notebook "AluraStoreLatam CASI TERMINANDO.ipynb"
     ```
