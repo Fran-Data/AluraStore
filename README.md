@@ -50,9 +50,5 @@ El análisis se estructura en los siguientes puntos, cubriendo los requerimiento
 
 ## ✍️ Autor
 
-* [Tu Nombre o Nombre de Usuario]
-* [Enlace a tu Perfil de GitHub (Opcional)]
+* Data.byjara@gmail.com
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
