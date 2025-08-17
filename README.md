@@ -36,7 +36,7 @@ El análisis se estructura en los siguientes puntos, cubriendo los requerimiento
 
 1.  Abre el notebook en Jupyter:
     ```bash
-    jupyter notebook "AluraStoreLatam CASI TERMINANDO.ipynb"
+    jupyter notebook "AluraStoreLatam_Terminado.ipynb"
     ```
 4.  Ejecuta cada celda del notebook para replicar el análisis completo y las visualizaciones.
 
